@@ -1,5 +1,6 @@
 
-# Material Theme (But I won't sue you)
+# Material Theme (But I won't sue you) and I made my own theme (:
+
 
 > **Note:** The original Material Theme has been removed from the marketplace due to [distributing malware through their extensions](https://news.ycombinator.com/item?id=43181591). This fork has been thoroughly audited and is completely safe to use. I have personally audited every line, and removed a TON of unnecessary stuff to be sure. The VS Code team is auditing it as well just to be extra safe.
 
@@ -18,7 +19,7 @@ Sources:
 
 The most epic theme meets Visual Studio Code.
 
-- [Material Theme ](#material-theme-)
+- [Material Theme (But I won't sue you) and I made my own theme (:](#material-theme-but-i-wont-sue-you-and-i-made-my-own-theme-)
   - [Table of contents](#table-of-contents)
   - [Getting started](#getting-started)
     - [Installation](#installation)
@@ -26,9 +27,7 @@ The most epic theme meets Visual Studio Code.
   - [Set the accent color](#set-the-accent-color)
   - [Override theme colors](#override-theme-colors)
   - [Recommended settings for a better experience](#recommended-settings-for-a-better-experience)
-  - [Official Portings](#official-portings)
-  - [Want to use the legacy version?](#want-to-use-the-legacy-version)
-  - [Contributors](#contributors)
+  - [Attribution](#attribution)
 
 
 ## Getting started
