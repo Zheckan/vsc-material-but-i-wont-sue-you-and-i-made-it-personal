@@ -1,4 +1,3 @@
-
 export type ThemeSetting = {
   id: string;
   name: string;
@@ -48,4 +47,5 @@ export type ThemeSetting = {
       violet: string;
     };
   };
+  tokenColors?: any[];
 };

@@ -148,6 +148,11 @@
         "label": "Material Theme Lighter High Contrast",
         "path": "./build/themes/Material-Theme-Lighter-High-Contrast.json",
         "uiTheme": "vs"
+      },
+      {
+        "label": "Material Theme Darker Nordic",
+        "path": "./build/themes/Material-Theme-Darker-Nordic.json",
+        "uiTheme": "vs-dark"
       }
     ]
   },
