@@ -1,11 +1,11 @@
 {
-  "name": "vsc-material-theme-but-i-wont-sue-you",
-  "displayName": "Material Theme (But I Won't Sue You)",
-  "description": "A Apache-2 licensed fork of Material Theme with no threats of legal action",
+  "name": "vsc-material-theme-but-i-wont-sue-you-and-i-made-it-personal",
+  "displayName": "Material Theme (But I Won't Sue You) and I Made It Personal",
+  "description": "A Apache-2 licensed fork of Material Theme with no threats of legal action and made it personal",
   "version": "35.0.2",
-  "publisher": "t3dotgg",
+  "publisher": "ZHC",
   "license": "Apache-2.0",
-  "author": "Theo",
+  "author": "Zheckan",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#11131C",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you.git"
+    "url": "https://github.com/Zheckan/vsc-material-but-i-wont-sue-you-and-i-made-it-personal.git"
   },
   "bugs": {
-    "url": "https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you/issues"
+    "url": "https://github.com/Zheckan/vsc-material-but-i-wont-sue-you-and-i-made-it-personal/issues"
   },
   "engines": {
     "node": ">=12",
