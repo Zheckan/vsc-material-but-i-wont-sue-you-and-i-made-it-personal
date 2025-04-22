@@ -2,8 +2,8 @@
 // #d68bcf
 
 export default {
-  id: 'material.theme.darker.nordic',
-  name: 'Material-Theme-Darker-Nordic',
+  id: 'zheckan.theme',
+  name: 'Zheckan',
   type: 'dark',
   scheme: {
     defaultAccent: '#80CBC4',
@@ -1644,3 +1644,4 @@ export default {
     },
   ],
 };
+ 
