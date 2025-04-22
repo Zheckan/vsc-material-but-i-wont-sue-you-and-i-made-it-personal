@@ -467,8 +467,10 @@ export const getColorSet = (theme: ThemeSetting): IColorSet => {
       /**
       * Editor diff editor style
       */
-      'diffEditor.insertedTextBackground': `${theme.scheme.base.cyan}20`,
-      'diffEditor.removedTextBackground': `${theme.scheme.base.pink}20`,
+      'diffEditor.insertedTextBackground': `${theme.scheme.base.cyan}15`,
+      'diffEditor.insertedLineBackground': `${theme.scheme.base.cyan}10`,
+      'diffEditor.removedTextBackground': `${theme.scheme.base.pink}15`,
+      'diffEditor.removedLineBackground': `${theme.scheme.base.pink}10`,
       /**
       * Notifications
       */
