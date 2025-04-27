@@ -38,6 +38,7 @@ export default {
       white: '#ffffff',
       black: '#000000',
       red: '#f07178',
+      redForHighlight: '#0e0e0e',
       orange: '#F78C6C',
       yellow: '#FFCB6B',
       green: '#C3E88D',

@@ -35,6 +35,7 @@ export type ThemeSetting = {
       white: string;
       black: string;
       red: string;
+      redForHighlight: string;
       orange: string;
       yellow: string;
       green: string;

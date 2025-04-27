@@ -8,7 +8,7 @@ export const getColorSet = (theme: ThemeSetting): IColorSet => {
       // Determines the overall background color
       background: theme.scheme.background,
       // Determines boolean, identifier, keyword, storage, and cssClass
-      color1: theme.scheme.base.red,
+      color1: theme.scheme.base.redForHighlight,
       // Determines string, stringEscape, and cssId
       color2: theme.scheme.base.green,
       // Determines function, class, classMember, type, and cssTag

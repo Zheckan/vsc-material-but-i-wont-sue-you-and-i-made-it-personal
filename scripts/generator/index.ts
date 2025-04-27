@@ -7,13 +7,8 @@ import {getColorSet} from './color-set';
 import {BUILD_FOLDER_PATH} from '../../src/env';
 
 const THEME_BUILD_PATH = path.join(BUILD_FOLDER_PATH, 'themes');
-const baseThemes = ['default', 'darker', 'lighter', 'ocean', 'palenight', 'deepforest'];
-const extraThemes = ['darker-nordic'];
-const withHC = baseThemes.reduce((acc, src) => {
-  acc = acc.concat(`${src}-hc`);
-  return acc;
-}, baseThemes);
-const allThemes = withHC.concat(extraThemes);
+
+const allThemes = ['darker-nordic'];
 
 const themeModules = allThemes.map(async theme => import(`./settings/specific/${theme}`).then(res => res.default));
 
