@@ -2,7 +2,7 @@
   "name": "vsc-material-theme-but-i-wont-sue-you-and-i-made-it-personal",
   "displayName": "Material Theme (But I Won't Sue You) and I Made It Personal",
   "description": "A Apache-2 licensed fork of Material Theme with no threats of legal action and made it personal",
-  "version": "36.0.0",
+  "version": "36.0.1",
   "publisher": "Zheckan",
   "license": "Apache-2.0",
   "author": "Yevhenii",
@@ -89,66 +89,6 @@
       }
     },
     "themes": [
-      {
-        "label": "Material Theme",
-        "path": "./build/themes/Material-Theme-Default.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme High Contrast",
-        "path": "./build/themes/Material-Theme-Default-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Darker",
-        "path": "./build/themes/Material-Theme-Darker.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Darker High Contrast",
-        "path": "./build/themes/Material-Theme-Darker-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Palenight",
-        "path": "./build/themes/Material-Theme-Palenight.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Palenight High Contrast",
-        "path": "./build/themes/Material-Theme-Palenight-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Ocean",
-        "path": "./build/themes/Material-Theme-Ocean.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Ocean High Contrast",
-        "path": "./build/themes/Material-Theme-Ocean-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Deepforest",
-        "path": "./build/themes/Material-Theme-Deepforest.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme DeepForest High Contrast",
-        "path": "./build/themes/Material-Theme-Deepforest-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Lighter",
-        "path": "./build/themes/Material-Theme-Lighter.json",
-        "uiTheme": "vs"
-      },
-      {
-        "label": "Material Theme Lighter High Contrast",
-        "path": "./build/themes/Material-Theme-Lighter-High-Contrast.json",
-        "uiTheme": "vs"
-      },
       {
         "label": "Zheckan",
         "path": "./build/themes/Zheckan.json",
